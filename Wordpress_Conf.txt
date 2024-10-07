@@ -1,0 +1,26 @@
+gia access stin selida 
+
+http://localhost/hoopers24/
+
+_____________________________________________________
+
+wordpress:
+http://localhost/hoopers24/wp-login.php?loggedout=true&wp_lang=en_US
+
+Login: admin
+Password: Omgkai3lol!
+
+
+_____________________________________________________
+
+phpmyadmin:
+
+username: root
+password: Omgkai3lol!
+
+_____________________________________________________
+
+
+
+
+
